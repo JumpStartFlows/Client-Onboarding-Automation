@@ -1,2 +1,2 @@
-# client-onboarding-automation
+# Client-Onboarding-Automation
 Client onboarding workflow automation project
