@@ -96,6 +96,6 @@ As the **Solutions Architect and Automation Developer** on this project, I:
 📫 **For further questions or collaboration:**
 
 - **Email:** [allen@jumpstartflows.com](mailto:allen@jumpstartflows.com)
-- **GitHub:** [github.com/yourusername](https://github.com/JumpStartFlows)
+- **GitHub:** [github.com/JumpStartFlows](https://github.com/JumpStartFlows)
 
 Thank you for viewing this project!
